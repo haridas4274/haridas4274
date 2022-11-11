@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=haridas4272&label=Profile%20views&color=0e75b6&style=flat" alt="haridas4272" /> </p>
 
-- 🌱 I’m currently learning **Laravel and ReactJs**
+- 🌱 I’m currently Focused on **Laravel and ReactJs**
 
 - 📫 How to reach me **haridasnamakkal@gmail.com**
 
