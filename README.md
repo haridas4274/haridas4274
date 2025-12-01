@@ -46,20 +46,11 @@
 ---
 
 ### 🛠️ Languages & Tools
-<p align="left">
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" width="45" height="45"/>
-<img src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="45" height="45" />
-<img src="https://raw.githubusercontent.com/shadcn.png" alt="shadcn" width="45" height="45"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg" width="55" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" width="45" height="45"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45"/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,tailwind,mysql,git" />
+  </a>
 </p>
-
 ---
 
 ### 🔥 GitHub Stats (Dynamic)
