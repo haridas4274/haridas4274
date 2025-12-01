@@ -5,8 +5,6 @@
 🌍 From Tamil Nadu, India &nbsp; | &nbsp; 💻 Passionate about scalable applications & APIs
 </p>
 
----
-
 ### 👨‍💻 About Me
 🔹 Full-Stack Developer with hands-on experience in **Laravel, CodeIgniter, React & REST APIs**  
 🔹 Interested in **SaaS applications, Multi-Tenant systems & PWA**  
@@ -16,13 +14,22 @@
 
 ---
 
+<table>
+  <tr>
+    <td width="50%">
+
 ### 🚀 Currently Focusing On
 - **Laravel (Sanctum, Spatie, Multi-Tenant, REST API)**
 - **React with Inertia.js + TypeScript**
 - **Tailwind CSS / ShadCN**
 - **Flutter (for mobile apps)**
 
----
+    </td>
+    <td>
+      <img src="assets/profile.gif" />
+    </td>
+  </tr>
+</table>
 
 ### 🌐 Connect With Me
 <p align="left">
