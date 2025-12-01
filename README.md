@@ -76,6 +76,8 @@
 ### ⚡ Fun Fact
 > **The breath of a wounded lion is far more terrifying than its roar 🦁**
 
----
+<h1 align="center" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Thank%20You&section=footer&descAlign=51&textBg=false&animation=twinkling&desc=⭐%20*If%20you%20like%20my%20work,%20consider%20giving%20a%20star%20to%20my%20repositories%20—%20your%20support%20motivates%20me!*%20&descAlignY=69&descSize=14&fontSize=50&fontColor=000" style="width: 100%;" />
+</h1>
 
 ⭐ *If you like my work, consider giving a star to my repositories — your support motivates me!*  
