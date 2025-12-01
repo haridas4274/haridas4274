@@ -48,7 +48,7 @@
 ### 🛠️ Languages & Tools
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=php,laravel,react,ts,js,tailwind,mysql,git" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,materialui,php,laravel,nodejs,mysql,redis,npm,vite,babel,git,aws,linux,notion" />
   </a>
 </p>
 ---
